@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## That one website
 
-You can use the [editor on GitHub](https://github.com/swebb3/swebb3.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Some short story
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There once was a boy named Hector and he was lactose intolerant.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+the end...
 
 ```markdown
-Syntax highlighted code block
+This is just some box full of words. Lots and lots of different words. 
+Apple
+Bicycle
+Corporate
+Drink
+Elephant
+Family
+Guacamole
 
-# Header 1
-## Header 2
-### Header 3
+Thats just seven words in alphabetical order.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+i still dont know if i spelled guacamole right, but who cares, its just avocado dip
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Want to see more cool pages like this???
 
-### Jekyll Themes
+well too bad because there are no others like this one
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swebb3/swebb3.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Sponsor
+
+Theres supposed to be a sponsor here but no one wants to sponsor this page
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you're having trouble, just google it. 
